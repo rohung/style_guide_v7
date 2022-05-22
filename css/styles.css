@@ -535,7 +535,7 @@ a {
 
 /* line 22, ../../../Documents/Treehouse_Learning_Files/style_guide_v7/scss/components/_navigation.scss */
 .nav-link:hover {
-  color: #fff;
+  color: #777;
   background-color: #58e1c1;
 }
 
