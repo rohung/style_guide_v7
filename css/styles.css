@@ -383,7 +383,7 @@ template {
 /* line 7, ../../../Documents/Treehouse_Learning_Files/style_guide_v7/scss/base/_typography.scss */
 * {
   font-family: 'Lato', sans-serif;
-  color: #777;
+  color: blue;
   box-sizing: border-box;
 }
 
